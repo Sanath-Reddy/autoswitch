@@ -1,0 +1,8 @@
+# Google's adb download. Its licence does not allow passing it on, so it must
+# never be committed; the script fetches it from Google when needed.
+platform-tools/
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/

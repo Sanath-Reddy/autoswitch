@@ -1,0 +1,5 @@
+# Windows batch files only work with Windows line endings
+*.bat text eol=crlf
+*.py  text eol=lf
+*.md  text eol=lf
+*.yml text eol=lf
